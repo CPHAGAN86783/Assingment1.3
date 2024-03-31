@@ -1,0 +1,17 @@
+body{ 
+    background-color: olivedrab;
+}
+h1{
+    color: darkred;
+    margin-top: 10px;
+    text-align: center;
+}
+#memeImage { margin-right: 200px;}
+nav {  height: 600px;
+       width: 200px;
+       float: left;
+       padding: 5px;
+       line-height: 30px;
+}
+h6{ text-align: center;
+    margin-right: 200px;}
